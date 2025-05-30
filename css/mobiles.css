@@ -3,7 +3,7 @@
          height: 942px;
     }
     .main_sec{
-        width: 440px;
+        /* width: 440px; */
         height: 878px;
         flex-direction: column;
         align-items: center;
